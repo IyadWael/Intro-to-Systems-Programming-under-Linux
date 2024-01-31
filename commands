@@ -1,0 +1,4 @@
+Commands Used 
+vim echo.c    // using vim to create a C source file
+gcc -o MyFemtoShell echo.c   // compiling the code and rename the output file to MyFemtoShell
+./MyFemtoShell    // Run the code
