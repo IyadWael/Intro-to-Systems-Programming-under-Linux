@@ -1,5 +1,13 @@
 Commands used in the Task:
 
-vim echo.c   // Using vim to create a c source file
-gcc -o myFemtoShell echo.c   // Compile echo.c and rename the output file to myFemtoShell
-./myFemtoShell     // Run the code
+for echo.c:
+echo Hello world
+echo Hello World Iyad wael
+
+for pwd.c
+pwd
+
+for mov.c
+mov source dest
+
+
